@@ -13,6 +13,7 @@ Contents
 
 
 
+
 Outputs (brief)
 
 BCR_galaxies_blind.pdf — per-galaxy pages: BCR (solid), RAR (dashed), Baryon (dotted). No obs.
@@ -20,6 +21,9 @@ BCR_galaxies_blind.pdf — per-galaxy pages: BCR (solid), RAR (dashed), Baryon (
 BCR_galaxies_overlays.pdf — same pages with Observed points (black dots with thin white edge; error bars if present); footer shows per-galaxy median |DEX| (BCR) and bias.
 
 BCR_full_dex_report.pdf — 3 pages: Headline (median RMS-dex for Baryon/RAR/BCR), CDF (three curves), Histogram (three overlaid series).
+
+
+
 
 “If a run goes wrong”:
 
