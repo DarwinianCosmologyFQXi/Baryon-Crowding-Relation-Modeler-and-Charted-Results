@@ -11,6 +11,8 @@ Contents
 /outputs/ — PDFs: BCR_galaxies_blind.pdf, BCR_galaxies_overlays.pdf, BCR_full_dex_report.pdf
 
 
+
+
 Outputs (brief)
 
 BCR_galaxies_blind.pdf — per-galaxy pages: BCR (solid), RAR (dashed), Baryon (dotted). No obs.
