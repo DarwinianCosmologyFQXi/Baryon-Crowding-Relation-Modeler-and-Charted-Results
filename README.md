@@ -10,13 +10,6 @@ Contents
 
 /outputs/ — PDFs: BCR_galaxies_blind.pdf, BCR_galaxies_overlays.pdf, BCR_full_dex_report.pdf
 
-Quickstart
-python bootstrap/bcr_modeler_galaxies.py \
-  --galaxy-baryon data/sparc_radii_enclosed_baryonic_mass.xlsx \
-  --galaxy-obs    data/sparc_observed_velocity_profiles.csv \
-  --out-gal-pdf   outputs/BCR_galaxies_overlays.pdf \
-  --out-dex-pdf   outputs/BCR_full_dex_report.pdf \
-  --require-tier  A
 
 Outputs (brief)
 
